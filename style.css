@@ -1,0 +1,517 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("applab/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+#divApplab.appModern button.appModernDesign,
+#divApplab.appModern button.appModernDesign:hover {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 30px;
+  width: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  border-left-color: rgb(0, 0, 0);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern label.appModernDesign,
+#divApplab.appModern label.appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  line-height: 1;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  overflow-wrap: break-word;
+  max-width: 320px;
+  color: rgb(51, 51, 51);
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  border-left-color: rgb(0, 0, 0);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  width: 28px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=text].appModernDesign,
+#divApplab.appModern input[type=text].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width: 200px;
+  height: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-color: rgb(153, 153, 153);
+  border-right-color: rgb(153, 153, 153);
+  border-bottom-color: rgb(153, 153, 153);
+  border-left-color: rgb(153, 153, 153);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=checkbox].appModernDesign,
+#divApplab.appModern input[type=checkbox].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern select.appModernDesign,
+#divApplab.appModern select.appModernDesign:hover {
+  width: 200px;
+  height: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: rgb(255, 255, 255);
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20256%20448%22%20enable-background%3D%22new%200%200%20256%20448%22%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E.arrow%7Bfill%3A%23ffffff%3B%7D%3C%2Fstyle%3E%3Cpath%20class%3D%22arrow%22%20d%3D%22M255.9%20168c0-4.2-1.6-7.9-4.8-11.2-3.2-3.2-6.9-4.8-11.2-4.8H16c-4.2%200-7.9%201.6-11.2%204.8S0%20163.8%200%20168c0%204.4%201.6%208.2%204.8%2011.4l112%20112c3.1%203.1%206.8%204.6%2011.2%204.6%204.4%200%208.2-1.5%2011.4-4.6l112-112c3-3.2%204.5-7%204.5-11.4z%22%2F%3E%3C%2Fsvg%3E");
+  background-color: rgb(26, 188, 156);
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  border-left-color: rgb(0, 0, 0);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=radio].appModernDesign,
+#divApplab.appModern input[type=radio].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern div.textArea.appModernDesign,
+#divApplab.appModern div.textArea.appModernDesign:hover {
+  width: 200px;
+  height: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-color: rgb(153, 153, 153);
+  border-right-color: rgb(153, 153, 153);
+  border-bottom-color: rgb(153, 153, 153);
+  border-left-color: rgb(153, 153, 153);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern img.appModernDesign,
+#divApplab.appModern img.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  border-left-color: rgb(0, 0, 0);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  object-fit: contain;
+  font-family: "object-fit: contain;";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern canvas.appModernDesign,
+#divApplab.appModern canvas.appModernDesign:hover {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern div.screen.appModernDesign,
+#divApplab.appModern div.screen.appModernDesign:hover {
+  display: block;
+  height: 450px;
+  width: 320px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  z-index: 0;
+}
+
+#divApplab.appModern div.chart.appModernDesign,
+#divApplab.appModern div.chart.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern input[type=range].appModernDesign,
+#divApplab.appModern input[type=range].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  width: 150px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern #homeScreen {
+  background-color: rgb(124, 210, 56);
+}
+
+#divApplab.appModern #appNameLabel {
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  width: 165px;
+  height: 30px;
+  left: 80px;
+  top: 20px;
+}
+
+#divApplab.appModern #descriptionLabelOfWhatTheAppDoes {
+  font-size: 12px;
+  color: rgb(255, 255, 255);
+  width: 275px;
+  height: 20px;
+  left: 30px;
+  top: 70px;
+}
+
+#divApplab.appModern #letsGetStartedButton {
+  height: 20px;
+  width: 275px;
+  left: 30px;
+  top: 110px;
+}
+
+#divApplab.appModern #MainGiftCardDesignSelectionScreen {
+  display: none;
+}
+
+#divApplab.appModern #happyBirthdayCardButton {
+  height: 125px;
+  width: 320px;
+  background-color: rgb(46, 96, 115);
+}
+
+#divApplab.appModern #goToSurveyButton {
+  height: 20px;
+  width: 240px;
+  background-color: rgb(158, 175, 172);
+  left: 15px;
+  top: 400px;
+}
+
+#divApplab.appModern #helpUsLabel {
+  width: 243px;
+  left: 15px;
+  top: 370px;
+}
+
+#divApplab.appModern #SurveyScreen {
+  background-color: rgb(184, 201, 234);
+  display: none;
+}
+
+#divApplab.appModern #nameTextField {
+  left: 110px;
+  top: 40px;
+}
+
+#divApplab.appModern #nameOfSubmitterLabel {
+  font-size: 25px;
+  width: 90px;
+  height: 30px;
+  left: 10px;
+  top: 40px;
+}
+
+#divApplab.appModern #howAreYouEnjoyingAppLabel {
+  width: 295px;
+  height: 35px;
+  left: 15px;
+  top: 80px;
+}
+
+#divApplab.appModern #feelingsDropDownList {
+  width: 300px;
+  left: 15px;
+  top: 125px;
+}
+
+#divApplab.appModern #thougthsAndOpinionsTextField {
+  width: 290px;
+  height: 115px;
+  left: 15px;
+  top: 205px;
+}
+
+#divApplab.appModern #thougthsAndOpinionsLabel {
+  width: 290px;
+  height: 45px;
+  left: 15px;
+  top: 155px;
+}
+
+#divApplab.appModern #submitFormButton {
+  height: 20px;
+  width: 290px;
+  left: 15px;
+  top: 340px;
+}
+
+#divApplab.appModern #ThankYouForSubmission! {
+  background-color: rgb(255, 0, 0);
+  display: none;
+}
+
+#divApplab.appModern #thanksForSubmittingLabel {
+  font-size: 38px;
+  color: rgb(255, 255, 255);
+  width: 215px;
+  height: 160px;
+  left: 55px;
+  top: 10px;
+  text-align: center;
+}
+
+#divApplab.appModern #goBackToGiftCardSelectionPageButton {
+  height: 35px;
+  width: 185px;
+  background-color: rgb(140, 26, 188);
+  left: 70px;
+  top: 175px;
+}
+
+#divApplab.appModern #resubmitFormButton {
+  height: 20px;
+  width: 185px;
+  background-color: rgb(71, 26, 188);
+  left: 70px;
+  top: 235px;
+}
+
+#divApplab.appModern #BirthdayGiftCardEditorScreen {
+  display: none;
+  background-color: rgb(204, 12, 236);
+}
+
+#divApplab.appModern #nameOfPersonThatHasTheBirthdayOrEvent {
+  width: 220px;
+  left: 60px;
+  top: 20px;
+}
+
+#divApplab.appModern #yourNameTextField {
+  width: 220px;
+  height: 25px;
+  left: 60px;
+  top: 60px;
+}
+
+#divApplab.appModern #ageOfTheOtherPerson {
+  width: 220px;
+  left: 60px;
+  top: 90px;
+}
+
+#divApplab.appModern #tryGivingAQuoteTextField {
+  width: 220px;
+  height: 25px;
+  left: 60px;
+  top: 125px;
+}
+
+#divApplab.appModern #createButton {
+  left: 125px;
+  top: 180px;
+}
+
+#divApplab.appModern #ResultOfCardScreen {
+  display: none;
+  background-color: rgb(255, 255, 255);
+}
+
+#divApplab.appModern #hereIsYourCardLabel {
+  width: 125px;
+  height: 20px;
+  left: 100px;
+  top: 10px;
+}
+
+#divApplab.appModern #imageResult {
+  height: 185px;
+  width: 295px;
+  left: 10px;
+  top: 35px;
+}
+
+#divApplab.appModern #happyBirthdayLabel {
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  width: 169px;
+  height: 29px;
+  left: 76.5px;
+  top: 60px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+#divApplab.appModern #whoMadeTheCard {
+  color: rgb(247, 255, 0);
+  width: 245px;
+  height: 20px;
+  left: 40px;
+  top: 180px;
+}
+
+#divApplab.appModern #nameOfThePersonHavingTheBirthday {
+  width: 250px;
+  height: 20px;
+  left: 35px;
+  top: 95px;
+  text-align: center;
+}
+
+#divApplab.appModern #aLittleQuoteTheyGave {
+  width: 265px;
+  height: 20px;
+  left: 25px;
+  top: 150px;
+  text-align: center;
+}
