@@ -26,3 +26,9 @@ onEvent("createButton", "click", function( ) {
   setText("ageOfTheOtherPerson", getText("ageOfTheOtherPerson"));
   setText("aLittleQuoteTheyGave", getText("tryGivingAQuoteTextField"));
 });
+onEvent("okButton", "click", function(event) {
+  setScreen("MainGiftCardDesignSelectionScreen");
+});
+onEvent("rateUsButton", "click", function(event) {
+  setScreen("SurveyScreen");
+});

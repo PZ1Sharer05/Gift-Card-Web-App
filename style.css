@@ -463,8 +463,8 @@
 }
 
 #divApplab.appModern #ResultOfCardScreen {
-  display: none;
   background-color: rgb(255, 255, 255);
+  display: none;
 }
 
 #divApplab.appModern #hereIsYourCardLabel {
@@ -514,4 +514,19 @@
   left: 25px;
   top: 150px;
   text-align: center;
+}
+
+#divApplab.appModern #okButton {
+  height: 20px;
+  width: 280px;
+  left: 20px;
+  top: 245px;
+}
+
+#divApplab.appModern #rateUsButton {
+  height: 20px;
+  width: 280px;
+  background-color: rgb(140, 88, 51);
+  left: 20px;
+  top: 270px;
 }
